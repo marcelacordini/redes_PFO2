@@ -1,0 +1,9 @@
+# Excluir bases de datos SQLite
+*.db
+*.sqlite3
+pfo2_tareas.db
+
+# Excluir archivos temporales y de caché de Python
+__pycache__/
+*.pyc
+.DS_Store
