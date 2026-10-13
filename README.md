@@ -1,8 +1,8 @@
 # Práctica Formativa Obligatoria 2 (PFO2)
 ## Sistema de Gestión de Tareas con API REST, Autenticación y SQLite
 
-**Materia:** Programación sobre Redes  
-**Profesor:** Alan Portillo  
+**Materia:** Programación sobre Redes - Comisión D
+**Alumno:** Marcela Cordini
 **Entregable:** Aplicación Cliente-Servidor (API REST + Cliente Consola) en archivo `.ZIP`
 
 ---
