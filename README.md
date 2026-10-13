@@ -1,9 +1,10 @@
 # Práctica Formativa Obligatoria 2 (PFO2)
 ## Sistema de Gestión de Tareas con API REST, Autenticación y SQLite
 
-**Materia:** Programación sobre Redes - Comisión D
+**Materia:** Programación sobre Redes 
 **Alumno:** Marcela Cordini
-**Entregable:** Aplicación Cliente-Servidor (API REST + Cliente Consola) en archivo `.ZIP`
+**Comisión:** D
+**Entregable:** Aplicación Cliente-Servidor (API REST + Cliente Consola) 
 
 ---
 
@@ -92,27 +93,32 @@ python cliente.py
 
 ## 📸 Capturas de Pantalla / Evidencia de Funcionamiento
 
-*(Guarde sus capturas de pantalla dentro de la carpeta `capturas/` con los siguientes nombres recomendados o actualice las rutas si prefiere otros nombres):*
-
 1. **Servidor API en Ejecución (`servidor.py`)**:  
+
    ![1. Servidor Ejecutándose](capturas/01_servidor.png)
 
 2. **Registro de Usuario (`POST /registro`)**:  
+
    ![2. Registro de Usuario](capturas/02_registro.png)
 
-3. **Inicio de Sesión y Autenticación (`POST /login`)**:  
+3. **Inicio de Sesión y Autenticación (`POST /login`)**: 
+
    ![3. Inicio de Sesión](capturas/03_login.png)
 
 4. **Creación de Tarea (`POST /tareas`)**:  
+
    ![4. Creación de Tareas](capturas/04_tareas.png)
 
 5. **Listado de Tareas en Consola (`GET /tareas`)**:  
+
    ![5. Listado de Tareas](capturas/05_listado_tareas.png)
 
 6. **Completar y Eliminar Tareas (`PUT` / `DELETE`)**:  
+
    ![6. Modificar y Eliminar](capturas/06_modificar_eliminar.png)
 
 7. **Vista de Bienvenida HTML desde Navegador (`GET /tareas`)**:  
+
    ![7. Vista HTML en Navegador](capturas/07_vista_html.png)
 
 ---
